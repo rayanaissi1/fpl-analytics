@@ -148,7 +148,7 @@ fpl-analytics/
 └── README.md
 ```
 
-`data/raw/`, `data/processed/`, `.venv/` et `.env` sont créés localement et exclus du suivi Git. Le rapport est conçu dans Power BI Desktop. Son fichier `.pbix`, lorsqu'il est ajouté au dépôt, se trouve dans `powerbi/`.
+`data/raw/`, `data/processed/`, `.venv/` et `.env` sont créés localement et exclus du suivi Git. Le rapport est conçu dans Power BI Desktop. Le rapport Power BI est disponible dans [powerbi/fpl_analytics.pbix](powerbi/fpl_analytics.pbix).
 
 ## Installation locale
 
