@@ -1,0 +1,13 @@
+{
+  "name": "FPL Analytics",
+  "dataColors": ["#007C70", "#6455A6", "#2F6B9A", "#B45E33", "#64748B"],
+  "background": "#FFFFFF",
+  "foreground": "#172638",
+  "tableAccent": "#007C70",
+  "textClasses": {
+    "title": { "fontSize": 14, "fontFace": "Segoe UI Semibold", "color": "#172638" },
+    "header": { "fontSize": 11, "fontFace": "Segoe UI Semibold", "color": "#172638" },
+    "label": { "fontSize": 10, "fontFace": "Segoe UI", "color": "#27384A" },
+    "callout": { "fontSize": 30, "fontFace": "Segoe UI Semibold", "color": "#007C70" }
+  }
+}
